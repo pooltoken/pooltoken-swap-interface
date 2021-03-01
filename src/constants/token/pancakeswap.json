@@ -11,6 +11,14 @@
   "keywords": ["pancake", "pooltoken", "default"],
   "tokens": [
     {
+      "name": "POOLT Token",
+      "symbol": "POOLT",
+      "address": "0x2b3aa086d2804a302fbc58d0e62de9c73146f6b1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/POOLT.png"
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
