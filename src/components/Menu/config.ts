@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pooltoken.finance/',
+    href: 'https://app.pooltoken.finance/',
   },
   {
     label: 'Trade',
@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Base farms',
     icon: 'FarmIcon',
-    href: 'https://pooltoken.finance/base-farms',
+    href: 'https://app.pooltoken.finance/base-farms',
   },
   {
     label: 'BSC pools',
     icon: 'BscIcon',
-    href: 'https://pooltoken.finance/bsc-pools',
+    href: 'https://app.pooltoken.finance/bsc-pools',
   },
   {
     label: 'Base Pools',
     icon: 'PoolIcon',
-    href: 'https://pooltoken.finance/base-pools',
+    href: 'https://app.pooltoken.finance/base-pools',
   },
   // {
   //   label: 'Lottery',
